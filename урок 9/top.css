@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(133, 133, 133);
+}
+.a-nav{
+    border: 3px solid black;
+    font-size: 35px;
+    margin-top: 10px;
+}
+.a-hd:hover{
+    text-decoration:double;
+    color: black;
+}
+.a-hd{
+color: rgb(255, 126, 5);
+text-decoration: none;
+padding-top: 50px;
+}
+h1{
+font-family: "Lobster", cursive;
+font-size: 45px;
+}
+aside{
+    background-color: rgb(189, 182, 231);
+    border-radius: 12px;
+    width: 400px;
+    height: 510px;
+    float: right;
+    padding-left: 17px;
+}
+h3{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+}
+h2{
+    font-family: Verdana;
+    color:rgb(12, 0, 117);
+    font-size: 35px;
+}
+.img-top{
+    border-radius: 15px;
+    border: 5px solid rgb(255, 255, 255);
+}
+p{
+    font-size: 23px;
+}
+footer{
+    border: 3px solid black;
+    font-size: 35px;
+}
+.a-ft{
+    color:black;
+}

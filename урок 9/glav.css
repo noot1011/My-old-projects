@@ -1,0 +1,50 @@
+body{
+    background-image: url('https://w.wallhaven.cc/full/9m/wallhaven-9m6e9k.png');
+    background-size: cover;
+}
+.a-nav{
+    border: 3px solid black;
+    font-size: 35px;
+    margin-top: 10px;
+}
+.a-hd{
+color: rgb(255, 126, 5);
+text-decoration: none;
+padding-top: 50px;
+}
+h1{
+font-family: "Lobster", cursive;
+font-size: 45px;
+}
+aside{
+    background-color: rgb(189, 182, 231);
+    border-radius: 12px;
+    width: 400px;
+    height: 510px;
+    float: right;
+    padding-left: 17px;
+}
+h3{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+}
+h2{
+    font-family: Verdana;
+    color:rgb(12, 0, 117);
+    font-size: 35px;
+}
+.img-glav{
+    border: 5px solid black;
+    border-radius: 15px;
+
+}
+p{
+    font-size: 23px;
+}
+footer{
+    border: 3px solid black;
+    font-size: 35px;
+}
+.a-ft{
+    color:black;
+}

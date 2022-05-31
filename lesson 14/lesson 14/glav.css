@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Major+Mono+Display&family=Mukta:wght@200&family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Major+Mono+Display&family=Permanent+Marker&display=swap');
+body{
+    background-image: url('oboi.png');
+    background-size: cover;
+}
+header{
+border-bottom: 5px solid ;
+padding: 0;
+margin-bottom: 20px;
+text-align: center;
+background-color: rgba(0, 0, 0, 0.7);
+}
+ul{
+    list-style: none;
+}
+.a-shapka{
+    font-size: 33px;
+    color: rgb(247, 189, 0);
+    text-decoration: none;
+}
+a:hover{
+color:rgb(177, 39, 39);
+}
+.shapka{
+    display: inline;
+    margin-left: 18px;
+}
+.img-glav{
+    border: 10px solid black;
+    border-radius: 11px;
+}
+h1{
+    font-size: 44px;
+    
+font-family: 'Major Mono Display', monospace;
+font-family: 'Permanent Marker', cursive;
+}
+#block{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Major Mono Display', monospace;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    margin-left: 60px;
+    font-size: 17px;
+    color: black;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(255, 250, 205);
+    border-radius: 15px;
+    width: 1200px;
+}
+#kartin{
+    position: relative;
+    left: 845px;
+    bottom: 170px;
+    border: 5px solid black ;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: rgb(59, 59, 59);
+    width: 350px;
+}
+.text{
+    width: 800px;
+    margin-left: 30px;
+}
+#text2{
+    position: relative;
+    bottom: 535px;
+    left:  30px;
+    width: 800px;
+}
+#sujet{
+    position: relative;
+    bottom: 530px; 
+    left:  30px;
+    width: 800px; 
+}
+#spisok{
+    border-top: 5px dotted black;
+    padding-top: 15px;
+    font-family: "Trebuchet MS", "Lucida Sans";
+    list-style: square;
+}
+#Wolt{
+    position: relative;
+    bottom: 515px;
+    left:  30px;
+}
+#text1{
+    position: relative;
+    bottom: 530px;
+    left:  30px;
+    width: 800px;
+}
+footer{
+    border: 25px solid black;
+    border-radius: 10px;
+    padding-left: 170px;
+    background-color:black;
+    margin-top: 20px;
+}
+#footer{
+    list-style: none;
+
+}
+.footer{
+    display: inline;
+    margin-left: 45px;
+}
+.a-footer{
+color: rgb(247, 189, 0);
+text-decoration: none;
+font-size: 45px;
+}
